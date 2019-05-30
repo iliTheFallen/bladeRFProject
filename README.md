@@ -17,8 +17,8 @@
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
    
-    You should have received a copy of the GNU General Public License. Please contact Ilker GURCAN for more 
-    info about licensing gurcan.ilker@gmail.com, or via github issues section.
+    You should have received a copy of the GNU General Public License. Please contact Ilker GURCAN 
+    for more info about licensing gurcan.ilker@gmail.com, or via github issues section.
     
     Authors:
       Ilker GURCAN
