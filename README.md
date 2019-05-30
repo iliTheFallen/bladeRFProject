@@ -46,3 +46,5 @@
   | transmitter  | Transmitter side application | make transmitter |
   
 </p>
+
+*Please check out the report for nitty gritties.*
